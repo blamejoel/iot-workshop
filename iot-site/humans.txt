@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Joel  --  Developer/Instructor -- @dohmez
+
+# THANKS
+
+  IEEE@UCR
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
