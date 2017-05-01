@@ -3,11 +3,11 @@
 
 # TEAM
 
-  <name> -- <role> -- <twitter>
+  Joel  --  Developer/Instructor -- @dohmez
 
 # THANKS
 
-  <name>
+  IEEE@UCR
 
 # TECHNOLOGY COLOPHON
 
