@@ -26,6 +26,7 @@ def led_off():
 
 @app.route('/pwm/<var>')
 def var(var):
+    pwm.stop()
     pwm.start(int(var))
     return 'PWM duty cycle set to {}'.format(var)
 
