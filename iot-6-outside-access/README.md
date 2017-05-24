@@ -4,7 +4,7 @@ Slides available [here](#)
 
 ### Requirements
 * ngrok ([download ARM version!](https://ngrok.com/download))
-  * If you want SSH functionality, you'll need to register with ngrok (free)
+  * I also suggest that you register with ngrok (free)
 * [dweet.io](http://dweet.io/)
 * Flask (see workshop 2)
 * Nginx
