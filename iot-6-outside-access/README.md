@@ -33,6 +33,8 @@ UPDATE=$(date)
 
 if [ -e "$TMP_FILE"  ]; then
     NGROK_URL=$(cat $TMP_FILE)
+else
+    touch $TMP_FILE
 fi
 
 NEW_URL=$(curl -s http://127.0.0.1:4040/status | grep -P "https://.*?ngrok.io" -oh) 
