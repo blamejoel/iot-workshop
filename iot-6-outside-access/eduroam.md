@@ -26,8 +26,8 @@ field.
 For security reasons, clear your terminal history now! (since your password is
 in plain-text there!)
 ```
-history -w
 history -c
+history -w
 ```
 
 Reboot your Pi and enjoy wireless connectivity on eduroam!
