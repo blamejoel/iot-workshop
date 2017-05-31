@@ -163,3 +163,5 @@ will dweet it's ngrok URL to [https://dweet.io/follow/[your dweet id]](#)
 * [crontab](https://www.raspberrypi.org/documentation/linux/usage/cron.md)
 * [IoT
   Bytes](https://iotbytes.wordpress.com/python-flask-web-application-on-raspberry-pi-with-nginx-and-uwsgi/)
+* \*\*Note\*\* - if your Flask app requires GPIO access, you may have to add the
+  `www-data` user to the `gpio` group with `sudo usermod -a -G gpio www-data`
